@@ -18,16 +18,16 @@
 
 - 15-amp circuit: This is the most common type found in bedrooms and other general living areas.
 ```
-- Maximum current: 15 amps.
-- mafe continuous current: Following the National Electrical Code's 80% rule for continuous loads, you should not exceed 12 amps.
-- Maximum wattage: 1,800 watts (15A x 120V).
+Maximum current: 15 amps.
+Safe continuous current: Following the National Electrical Code's 80% rule for continuous loads, you should not exceed 12 amps.
+Maximum wattage: 1,800 watts (15A x 120V).
 ```
 
 - 20-amp circuit: These are common in kitchens, garages, and bathrooms, where higher-power appliances are often used.
 ```
-- Maximum current: 20 amps.
-- Safe continuous current: Using the 80% rule, the maximum continuous load is 16 amps.
-- Maximum wattage: 2,400 watts (20A x 120V)
+Maximum current: 20 amps.
+Safe continuous current: Using the 80% rule, the maximum continuous load is 16 amps.
+Maximum wattage: 2,400 watts (20A x 120V)
 ```
 
 # How much current a 100 watt bulb will draw from an outlet 
