@@ -71,6 +71,80 @@ Maximum wattage: 2,400 watts (20A x 120V)
 - Appliances that use 240V also balance the electrical load across the two 120V "legs" of your home's power supply, simplifying electrical planning and improving the overall efficiency of your breaker panel.
 ```
 
+# Why There Is Less Heat on 240V Circuits
+
+The reason 240V circuits generate less heat for the same amount of power is directly related to the relationship between power, voltage, and current. The formula for power loss shows that heat is proportional to the square of the current, so reducing the current has a significant effect.
+
+---
+
+## The Formulas Used
+
+Two key formulas explain this relationship:
+
+### 1. Electrical Power Formula
+This formula shows that power (\(P\)) is the product of voltage (\(V\)) and current (\(I\)):
+
+\[
+P = V \times I
+\]
+
+This can be rearranged to solve for current:
+
+\[
+I = \frac{P}{V}
+\]
+
+### 2. Joule's Law (Power Loss as Heat)
+This formula calculates the power lost as heat (\(P_{loss}\)) in a wire due to its resistance (\(R\)):
+
+\[
+P_{loss} = I^{2} \times R
+\]
+
+The power loss is proportional to the square of the current.
+
+---
+
+## How It Works (Example)
+
+Let’s use a **4,800-watt appliance** (like an oven) as an example.  
+The resistance of the appliance’s heating element (\(R\)) is constant.
+
+### On a 120V Circuit
+- Current drawn:
+
+\[
+I = \frac{4800 \text{ W}}{120 \text{ V}} = 40 \text{ A}
+\]
+
+- Heat generated:
+
+\[
+P_{loss} = (40 \text{ A})^{2} \times R = 1600R
+\]
+
+### On a 240V Circuit
+- Current drawn:
+
+\[
+I = \frac{4800 \text{ W}}{240 \text{ V}} = 20 \text{ A}
+\]
+
+- Heat generated:
+
+\[
+P_{loss} = (20 \text{ A})^{2} \times R = 400R
+\]
+
+---
+
+## Conclusion
+
+By doubling the voltage from 120V to 240V, the required current is halved (from 40A to 20A).  
+Because the heat generated is proportional to the **square of the current**, the heat loss is reduced to **one-quarter** of the original amount (\(400R\) vs. \(1600R\)).
+
+This reduction in heat is why 240V circuits can deliver more power safely and efficiently without overheating the wiring.
+
 # Imp Vidoes
 
 - DIY Electrical Outlet Basics - https://www.youtube.com/watch?v=CsiK2aqzcqQ
