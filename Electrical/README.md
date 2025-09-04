@@ -1,8 +1,8 @@
 # Tools - 
--- Outlet Tester
--- Non Contact Voltage Tester
--- Multi Meter
--- Combo-Tip Driver
+- Outlet Tester
+- Non Contact Voltage Tester
+- Multi Meter
+- Combo-Tip Driver
 
 # Commonly Used Wire Gauges -
 -- 14-gauge (AWG 14):Used for lighting circuits and some outlets on 15-amp circuits. A dime is about the thickness of a 14-gauge wire, according to Mister Sparky Electric. 
