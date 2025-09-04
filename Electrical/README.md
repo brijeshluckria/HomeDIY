@@ -72,7 +72,6 @@ Maximum wattage: 2,400 watts (20A x 120V)
 ```
 
 # Why There Is Less Heat on 240V Circuits
-# Why There Is Less Heat on 240V Circuits
 
 The reason 240V circuits generate less heat for the same amount of power is the relationship between power, voltage, and current. Heat (power loss) is proportional to the **square of the current**, so reducing current has a big effect.
 
@@ -122,9 +121,44 @@ Doubling voltage from **120V** to **240V** halves the current (40A → 20A).
 Because heat is proportional to **current squared**, the loss drops to **one-quarter** (`400R` vs `1600R`).  
 That’s why 240V circuits can deliver the same power more safely and efficiently, with less heating in the wiring.
 
+# Wire Colors - 
+- Hot (Line): Black (or sometimes red): Carries electricity from the power source (breaker panel) to a device or switch.
+- Load: Black or red (dependent on the wiring): Carries electricity from a switch to the appliance, fixture, or next outlet.
+- Neutral:	White (or gray):	Completes the circuit by carrying return current back to the main electrical panel.
+- Ground: Bare copper or green:	Provides a safety path for excess current to protect against electrical faults and surges.
+- Traveler: Typically black and red	Used in multi-way circuits to carry power between switches.
 
+# A note on color coding
+While not a definitive method, here are the standard US color codes:
+- Black: Hot/line wire or a traveler wire. Always treat as live.
+- Red: Hot/line wire or a traveler wire. Always treat as live.
+- White: Neutral wire. Caution: In a switch loop, a white wire may be used as a hot wire and should be marked with black or red tape.
+- Bare Copper or Green: Ground wire.
+
+# Step-by-step wire identification -
+
+1. Turn off power to the circuit at the breaker panel.
+2. Confirm the power is off. Use your non-contact voltage tester to verify that no wires are live.
+3. Separate the wires in the electrical box so that none are touching each other.
+4. Carefully turn the power back on.
+5. Test for the hot (line) wire. Use your tester to check each wire individually. The one that causes the tester to light up or beep is the hot (line) wire.
+6. Find the neutral wire.
+- Turn off the power again.
+- In modern US wiring, the neutral is typically white.
+- In a basic switch loop (common in older homes), there may be no neutral wire in the switch box. Instead, a bundle of white wires may be pushed to the back of the box and spliced together.
+7. Find the ground wire.
+- The ground wire is almost always bare copper or has green insulation.
+- The ground wire is usually attached to a green screw on the switch or outlet, or pigtailed and connected to the metal electrical box.
+8. Identify the load wire.
+- In a standard switch: The other hot-colored wire (often black or red) attached to the switch is the load wire.
+- In an outlet: Once you have identified and labeled the hot (line) wire, the remaining hot-colored wire in the box is the load wire, carrying power to the next outlet.
+9. Identify traveler wires (3-way/4-way switch).
+- These are used to control a single fixture from multiple locations.
+- Traveler wires are typically black and red in a 3-wire cable, and they connect to the brass-colored screws on the 3-way switch.
+- Every wire on a 4-way switch is a traveler.
 
 # Imp Vidoes
 
 - DIY Electrical Outlet Basics - https://www.youtube.com/watch?v=CsiK2aqzcqQ
 - DIY Install Electrical Outlet - https://www.youtube.com/watch?v=cZPefXgaCbY 
+- How to install Digital Dimmer Switch DM19 https://www.youtube.com/watch?v=lHnsAzeAQtI
