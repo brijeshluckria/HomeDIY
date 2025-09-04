@@ -5,26 +5,26 @@
 - Combo-Tip Driver
 
 # Commonly Used Wire Gauges -
--- 14-gauge (AWG 14):Used for lighting circuits and some outlets on 15-amp circuits. A dime is about the thickness of a 14-gauge wire, according to Mister Sparky Electric. 
--- 12-gauge (AWG 12):Used for 20-amp circuits, common for kitchen and bathroom outlets, workshops, and appliances like dishwashers. A nickel is about the thickness of a 12-gauge wire. 
--- 10-gauge (AWG 10): Used for 30-amp circuits, typically for electric dryers, small electric ovens, and water heaters. 
--- 8-gauge (AWG 8): Used for 40-amp circuits, common for large electric ranges and central air conditioning units. 
--- 6-gauge (AWG 6): Used for 50-amp circuits, including large electric ranges and subpanels. 
+- 14-gauge (AWG 14):Used for lighting circuits and some outlets on 15-amp circuits. A dime is about the thickness of a 14-gauge wire, according to Mister Sparky Electric. 
+- 12-gauge (AWG 12):Used for 20-amp circuits, common for kitchen and bathroom outlets, workshops, and appliances like dishwashers. A nickel is about the thickness of a 12-gauge wire. 
+- 10-gauge (AWG 10): Used for 30-amp circuits, typically for electric dryers, small electric ovens, and water heaters. 
+- 8-gauge (AWG 8): Used for 40-amp circuits, common for large electric ranges and central air conditioning units. 
+- 6-gauge (AWG 6): Used for 50-amp circuits, including large electric ranges and subpanels. 
 
 # 120 volts and 240 volts -
--- In a North American home, the standard electrical service provides two main voltages: 120 volts and 240 volts. While 240 volts is delivered to the house, it is split to provide the two voltage levels that power your appliances
+- In a North American home, the standard electrical service provides two main voltages: 120 volts and 240 volts. While 240 volts is delivered to the house, it is split to provide the two voltage levels that power your appliances
 
 - For a standard 120V outlet in the US, the maximum current you can safely draw is 15 or 20 amps, depending on the circuit it is connected to. Most household circuits are either 15-amp or 20-amp circuits
 
 - 15-amp circuit: This is the most common type found in bedrooms and other general living areas.
--- Maximum current: 15 amps.
--- mafe continuous current: Following the National Electrical Code's 80% rule for continuous loads, you should not exceed 12 amps.
--- Maximum wattage: 1,800 watts (15A x 120V).
+--- Maximum current: 15 amps.
+--- mafe continuous current: Following the National Electrical Code's 80% rule for continuous loads, you should not exceed 12 amps.
+--- Maximum wattage: 1,800 watts (15A x 120V).
 
 - 20-amp circuit: These are common in kitchens, garages, and bathrooms, where higher-power appliances are often used.
--- Maximum current: 20 amps.
--- Safe continuous current: Using the 80% rule, the maximum continuous load is 16 amps.
--- Maximum wattage: 2,400 watts (20A x 120V)
+--- Maximum current: 20 amps.
+--- Safe continuous current: Using the 80% rule, the maximum continuous load is 16 amps.
+--- Maximum wattage: 2,400 watts (20A x 120V)
 
 # How much current a 100 watt bulb will draw from an outlet 
 -- A 100-watt bulb connected to a standard 120-volt outlet will draw approximately 0.83 amps of current
