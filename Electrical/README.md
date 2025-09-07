@@ -162,3 +162,4 @@ While not a definitive method, here are the standard US color codes:
 - DIY Electrical Outlet Basics - https://www.youtube.com/watch?v=CsiK2aqzcqQ
 - DIY Install Electrical Outlet - https://www.youtube.com/watch?v=cZPefXgaCbY 
 - How to install Digital Dimmer Switch DM19 https://www.youtube.com/watch?v=lHnsAzeAQtI
+- How to Wire a GFCI - https://www.youtube.com/watch?v=Uop79H_iqoQ
