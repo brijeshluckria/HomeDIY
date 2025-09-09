@@ -128,6 +128,10 @@ That’s why 240V circuits can deliver the same power more safely and efficientl
 - Ground: Bare copper or green:	Provides a safety path for excess current to protect against electrical faults and surges.
 - Traveler: Typically black and red	Used in multi-way circuits to carry power between switches.
 
+# Line Wire vs Load Wire
+- Line = incoming power.
+- Load = outgoing power.
+
 # A note on color coding
 While not a definitive method, here are the standard US color codes:
 - Black: Hot/line wire or a traveler wire. Always treat as live.
