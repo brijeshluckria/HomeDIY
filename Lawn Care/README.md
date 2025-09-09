@@ -1,4 +1,7 @@
 # Grass Types - 
+## We have Centipede grass in NC Home
+## We have Fescue Grass in VA Home
+
 ## Cool Season Grass - 
 - Kentucky Blue Grass - Can fill automatically, high maintenance (water and nitrogen)
 - Turf Type Tall Fescue - Thik Grass Blades, (Most common in transition Zone)

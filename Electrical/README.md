@@ -32,8 +32,8 @@ Maximum wattage: 2,400 watts (20A x 120V)
 
 # How much current a 100 watt bulb will draw from an outlet 
 - A 100-watt bulb connected to a standard 120-volt outlet will draw approximately 0.83 amps of current
-- Power (P) = Voltage (V) × Current (I) = 100 / 120 = .83
-- Current (I) = Power (P) / Voltage (V) 
+- Power (P) = Voltage (V) × Current (I) 
+- Current (I) = Power (P) / Voltage (V) = 100 / 120 = .83
 
 # How much maximum current we can draw in a USA home 
 - The maximum current you can draw in a U.S. home depends on the size of the main electrical service, which is almost always either 100 or 200 amps. However, the actual current drawn from a household is typically much lower than this maximum capacity. 
@@ -163,3 +163,4 @@ While not a definitive method, here are the standard US color codes:
 - DIY Install Electrical Outlet - https://www.youtube.com/watch?v=cZPefXgaCbY 
 - How to install Digital Dimmer Switch DM19 https://www.youtube.com/watch?v=lHnsAzeAQtI
 - How to Wire a GFCI - https://www.youtube.com/watch?v=Uop79H_iqoQ
+- In Depth Guide to Install A USB Outlet - https://www.youtube.com/watch?v=l-Y-aL_QWbs
