@@ -139,6 +139,24 @@ While not a definitive method, here are the standard US color codes:
 - White: Neutral wire. Caution: In a switch loop, a white wire may be used as a hot wire and should be marked with black or red tape.
 - Bare Copper or Green: Ground wire.
 
+# How many wires in Switch, Light Fixture, and Outlet
+- Switch
+  3 wires total.
+  Line (in): hot feed from the panel or outlet.
+  Load (out): switched hot going to the light.
+  Ground
+  A switch only breaks the hot wire, controlling power to the light.
+
+- Light Fixture
+  End of circuit: 3 wires → hot, neutral, ground (line only).
+  Middle of circuit: 5 wires → 2 hots, 2 neutrals, 1 ground (line in + load out).
+  Older switch loop: 3–4 wires, with a white sometimes repurposed as hot. 
+  Lights may have just line, or both line and load, depending on placement in the circuit.
+
+# Line vs. Load (Simple Rule)
+- Line = power in (from panel).
+- Load = power out (to the next device).
+
 # Step-by-step wire identification -
 
 1. Turn off power to the circuit at the breaker panel.
