@@ -143,9 +143,9 @@ While not a definitive method, here are the standard US color codes:
 
 - **Outlet (Receptacle)**
 - 4–5 wires total.
-- Line (in): hot + neutral from the panel.
-- Load (out): hot + neutral going to the next outlet/device.
-- Ground for safety.
+    1. Line (in): hot + neutral from the panel.
+    2. Load (out): hot + neutral going to the next outlet/device.
+    3. Ground for safety.
 - Outlets usually have both line and load because they continue the circuit.
 
 - **Switch**
