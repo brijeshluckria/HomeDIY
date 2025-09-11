@@ -140,18 +140,26 @@ While not a definitive method, here are the standard US color codes:
 - Bare Copper or Green: Ground wire.
 
 # How many wires in Switch, Light Fixture, and Outlet
-- Switch
-  3 wires total.
-  Line (in): hot feed from the panel or outlet.
-  Load (out): switched hot going to the light.
-  Ground
-  A switch only breaks the hot wire, controlling power to the light.
 
-- Light Fixture
-  End of circuit: 3 wires → hot, neutral, ground (line only).
-  Middle of circuit: 5 wires → 2 hots, 2 neutrals, 1 ground (line in + load out).
-  Older switch loop: 3–4 wires, with a white sometimes repurposed as hot. 
-  Lights may have just line, or both line and load, depending on placement in the circuit.
+- **Outlet (Receptacle)**
+- 4–5 wires total.
+- Line (in): hot + neutral from the panel.
+- Load (out): hot + neutral going to the next outlet/device.
+- Ground for safety.
+- Outlets usually have both line and load because they continue the circuit.
+
+- **Switch**
+- 3 wires total.
+  1. Line (in): hot feed from the panel or outlet.
+  2. Load (out): switched hot going to the light.
+  3. Ground
+- A switch only breaks the hot wire, controlling power to the light.
+
+- **Light Fixture**
+- End of circuit: 3 wires → hot, neutral, ground (line only).
+- Middle of circuit: 5 wires → 2 hots, 2 neutrals, 1 ground (line in + load out).
+- Older switch loop: 3–4 wires, with a white sometimes repurposed as hot. 
+- Lights may have just line, or both line and load, depending on placement in the circuit.
 
 # Line vs. Load (Simple Rule)
 - Line = power in (from panel).
