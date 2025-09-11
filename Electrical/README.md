@@ -189,6 +189,7 @@ While not a definitive method, here are the standard US color codes:
 
 # Imp Vidoes
 
+- Electrical Wiring Basics - https://www.youtube.com/watch?v=syaGf_XUMxA&t=1244s 
 - DIY Electrical Outlet Basics - https://www.youtube.com/watch?v=CsiK2aqzcqQ
 - DIY Install Electrical Outlet - https://www.youtube.com/watch?v=cZPefXgaCbY 
 - How to install Digital Dimmer Switch DM19 https://www.youtube.com/watch?v=lHnsAzeAQtI
