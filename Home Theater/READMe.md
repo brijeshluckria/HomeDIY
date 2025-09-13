@@ -176,6 +176,25 @@ If **Z** is missing, the system is a traditional surround sound setup.
 
 ---
 
+# What is the difference between Stereo, Surround, Dolby Atmos
+
+Stereo → Simple left/right audio, great for music.
+Surround → Multi-speaker immersion around you (but flat on one plane).
+Dolby Atmos → Fully 3D, object-based audio with height for maximum realism.
+
+---
+
+# Current Installation Options:- 
+- 1 - Cheapest: Fire TV + Echo Pop (quick & casual).
+- 2 - Middle: Fire TV + Amazon Fire TV Soundbar (Better Audio)
+- 2 - Middle: Sony BRAVIA Theater System 6 (all-in-one surround, no AVR).
+- 3 - Basic AVR: Yamaha YHT-5960U Home Theater System with 8K HDMI
+- 4 - Expensive 5.1 AVR / Speakers: Bundle like RX-V4A + Speakers
+- 5 - Expensive 7.2 AVR / Speakers: Bundle like RX-V6A + Dolby Atmos 
+- 6 - Most Expensive: 17 Speakers + Dolby Atmos 
+
+
+
 - https://www.youtube.com/watch?v=M21kRBt28_8
 - https://www.youtube.com/watch?v=bt9G-O8JR9U
 - https://www.youtube.com/watch?v=6_v8DP60ni8
