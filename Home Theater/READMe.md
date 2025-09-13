@@ -188,9 +188,9 @@ Dolby Atmos → Fully 3D, object-based audio with height for maximum realism.
 - 1 - Cheapest: Fire TV + Echo Pop (quick & casual).
 - 2 - Middle: Fire TV + Amazon Fire TV Soundbar (Better Audio)
 - 2 - Middle: Sony BRAVIA Theater System 6 (all-in-one surround, no AVR).
-- 3 - Basic AVR: Yamaha YHT-5960U Home Theater System with 8K HDMI
+- 3 - Basic AVR: Yamaha YHT-5960U Home Theater System with 8K HDMI - *** Go with this ***
 - 4 - Expensive 5.1 AVR / Speakers: Bundle like RX-V4A + Speakers
-- 5 - Expensive 7.2 AVR / Speakers: Bundle like RX-V6A + Dolby Atmos 
+- 5 - Expensive 7.2 AVR / Speakers: AVR - Denon AVR-X2800H vs Yamaha RX-V6A + Dolby Atmos Speakers 
 - 6 - Most Expensive: 17 Speakers + Dolby Atmos 
 
 
