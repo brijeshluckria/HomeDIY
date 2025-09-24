@@ -1,0 +1,7 @@
+- Eat Between 12PM and 6PM
+- Eat Two times in a Day (Eat 15g Fiber, 50gm Proten,)
+- Stop eating Sugar
+- Stop eating refine floor
+- Stop taking Seed Oil. 
+- Drink coffee, lemon water, green tea. 
+- 24hr Fast two times in a month. 
