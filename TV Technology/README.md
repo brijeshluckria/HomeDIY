@@ -82,3 +82,10 @@
 
 ✅ **Trend:**  
 - TVs evolved from bulky/low-res (**CRT**) → bigger but flawed (**Rear Projection, Plasma**) → slim & higher res (**LCD, LED-LCD**) → bright & colorful (**QLED, Mini-LED**) → cinematic blacks (**OLED, QD-OLED**) → and now toward **MicroLED**, which promises the *best of both worlds*.  
+
+
+# Which one should you pick?
+
+- Dark rooms / movies & cinema feel → OLED is best.
+- Bright rooms / sports & gaming → QLED or Mini-LED.
+Future luxury tech → MicroLED (if price isn’t an issue).
