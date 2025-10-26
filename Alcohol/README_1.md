@@ -9,9 +9,9 @@
 ## The Six Main Types of Liquor
 
 1. **Vodka**  
-2. **Rum**  
-3. **Gin**  
-4. **Tequila**  
+2. **Tequila**  
+3. **Rum**  
+4. **Gin**  
 5. **Whiskey**  
 6. **Brandy**
 
