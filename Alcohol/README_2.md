@@ -1,3 +1,5 @@
+
+
 # Things to Buy - 
 - Malibu Pineapple Rum
 - Malibu Coconut Rum
@@ -9,7 +11,7 @@
 - Hennessy VS Brandy
 
 
-# Most Famous Burbons - 
+# Most Famous Burbons based on allocation to NC- 
 - Russell’s Reserve 13Y
 - Weller 12Y
 - Blanton Single

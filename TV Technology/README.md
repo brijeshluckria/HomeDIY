@@ -89,3 +89,15 @@
 - Dark rooms / movies & cinema feel → OLED is best.
 - Bright rooms / sports & gaming → QLED or Mini-LED.
 Future luxury tech → MicroLED (if price isn’t an issue).
+
+# In Short
+
+🖤 OLED = Best for deep blacks and cinematic quality.
+☀️ QLED = Best for bright rooms and vivid color.
+⚡ Mini-LED = Best of both worlds — nearly OLED contrast with QLED brightness.
+
+# 🧠 Easy Way to Remember
+
+“O” = Organic (perfect blacks)
+“Q” = Quantum (vivid color)
+“M” = Mini (micro-precision light)
