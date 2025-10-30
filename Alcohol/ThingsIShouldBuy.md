@@ -1,9 +1,9 @@
-- BUFFALO TRACE
-- Wild Turky 101
-- RUSSELL'S 10 years
+- BUFFALO TRACE - Yes
+- Wild Turky 101 - Yes
+- RUSSELL'S 10 years 
 - RUSSELL'S 13 year 
-- E.H. TAYLOR
-- WELLER
-- BLANTON
+- E.H. TAYLOR. 
+- WELLER - Yes
+- BLANTON - Yes
 - EAGLE RARE
 - PAPPY VAN WINKLE
