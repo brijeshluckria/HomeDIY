@@ -27,7 +27,7 @@ Burbone I am hunt for -
 
 Rye - 
 - Sagamore spirit double oak rye 
-- Sazerac 6 year Rye
+- Sazerac 6 year Rye (1st Choice)
 - Michter's single barrel straight rye
 - Bullet Rye
 
