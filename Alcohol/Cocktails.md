@@ -54,7 +54,7 @@ Would you like me to write a **frozen version** or a **pitcher version** of this
 * **2 dashes Angostura bitters**
 * **1 large ice cube** (or a few smaller ones)
 * **Orange peel**, for garnish
-* *(optional: a cherry, but purists skip it)*
+* *(optional: a cherry, but purists skip it)* ("Luxardo The Original Maraschino Cherries")
 
 ---
 
