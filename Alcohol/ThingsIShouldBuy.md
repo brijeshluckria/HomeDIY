@@ -1,3 +1,11 @@
+# Buy these - 
+1. EH Taylor BP (Barrel Proof) or EH Taylor
+2. Stagg
+3. Eagle Rare 10, Eagle Rare 12
+4. Weller SR(Special Reserve), Weller 12, Weller Full Proof 
+
+
+
 # The Six Main Types of Liquor
 
 1. **Whiskey**
@@ -56,7 +64,7 @@
 # Brandy -
 - Hennessy ***
 
----
+----------------------------------------------------------
 
 
 Burbone I am hunt for - 
@@ -71,7 +79,7 @@ Burbone I am hunt for -
 
 - BUFFALO TRACE - Yes
 - Wild Turky 101 - Yes
-- RUSSELL'S 10 years 
+- RUSSELL'S 10 years - Yes 
 - RUSSELL'S 13 year 
 - E.H. TAYLOR. 
 - WELLER - Yes
