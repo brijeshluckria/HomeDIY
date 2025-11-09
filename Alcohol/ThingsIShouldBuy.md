@@ -1,15 +1,73 @@
+# The Six Main Types of Liquor
+
+1. **Whiskey**
+2. **Vodka**  
+3. **Rum** 
+2. **Tequila**  
+4. **Gin**  
+6. **Brandy**
+
+
+# Whiskey
+## Scotch
+- McIVOR
+- Chivas Regal
+- Johnnie Walker Green Label-15
+- Glenfiddich-12
+- Amrut
+- The MACALLAN - 12Y Sherry Oak Cask ***
+- OBAN-14 ***
+## Bourbon
+- Weller-12
+- Blanton
+- Russell's-10
+- Jack daniel's heritage
+- Wild Turkey 101
+- Buffalo Trace
+- Elijah Craig
+- Four Roses Single Barrel ******
+- E.H. TAYLOR. ******
+- EAGLE RARE-10 ******
+- STAGG ******
+## Rye
+- Michter's Straight Rye
+## Irish whiskey
+- Redbreast-12 Year Irish Whiskey ***
+
+# Vodka 
+- Tito's 
+- Smirnoff 
+
+# Rum
+- Bacardi Superior 
+- Captain Morgan 
+
+# Tequila 
+- Patron (Blanco) (0 month to 2 months)
+- 1800 (Blanco) 
+- Hornitos (Reposado) (2 months to 12 months)
+- Patron (Anejo) (1 year to 3 year) ***
+- DonJulio ***
+
+# Gin 
+- Bombay Sapphire 
+- Tanqueray - ***
+
+# Brandy -
+- Hennessy ***
+
+---
 
 
 Burbone I am hunt for - 
-- Russell’s Reserve 10 Year
 - Four Roses Single Barrel
 - E.H. TAYLOR. 
 - EAGLE RARE - 10
-- Elijah Craig Barrel Proof
 - Knob Creek 12 Year
 - Michter’s 10 Year Single Barrel
 
 ---
+
 
 - BUFFALO TRACE - Yes
 - Wild Turky 101 - Yes
@@ -26,18 +84,23 @@ Burbone I am hunt for -
 - Old Forester Single Barrel - Barrel Strength 
 - Old Forester 1920
 - old rip van winkle 10 year
+- Penelope Rio
 
 Rye - 
 - Sazerac 6 year Rye (1st Choice)
 - Michter's single barrel straight rye
-- Sagamore spirit double oak rye 
+- Sagamore spirit double oak rye - Get This
+- New RIFF  6-year malted Rye
 - Bullet Rye
 
 
 Scotch - 
 - The MACALLAN - 12Y Sherry Oak Cask
-- OBAN - 14
-- 
+- OBAN - 14 - Get This
+
+Irish - 
+- Redbreast 12 Year Irish Whiskey
+
 
 Vodka - 
 Tito's - Get This
@@ -56,3 +119,4 @@ Hennessy - Get this
 
 Tequila - 
 Espolon
+1800
