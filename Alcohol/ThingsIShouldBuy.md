@@ -33,12 +33,15 @@
 - Wild Turkey 101
 - Buffalo Trace
 - Elijah Craig
-- Four Roses Single Barrel ******
+- Woodford double oaked ***
+- Four Roses Single Barrel ***
 - E.H. TAYLOR. ******
 - EAGLE RARE-10 ******
 - STAGG ******
 ## Rye
 - Michter's Straight Rye
+- Segamore Double Oak Rye Whiskey ***
+
 ## Irish whiskey
 - Redbreast-12 Year Irish Whiskey ***
 
