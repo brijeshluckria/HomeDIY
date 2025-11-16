@@ -1,6 +1,6 @@
 # Buy these - 
-1. EH Taylor BP (Barrel Proof) or EH Taylor
-2. Stagg
+1. Stagg
+2. EH Taylor BP (Barrel Proof) or EH Taylor
 3. Eagle Rare 10, Eagle Rare 12
 4. Weller SR(Special Reserve), Weller 12, Weller Full Proof 
 
