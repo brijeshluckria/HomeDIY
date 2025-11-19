@@ -17,6 +17,18 @@
 
 ---
 
+
+## Here are the commonly recognized countries of origin for each spirit:
+
+1. Vodka – Russia and Poland (both claim early origins)
+2. Tequila – Mexico (specifically the state of Jalisco and surrounding regions)
+3. Rum – Caribbean (notably Barbados, though other islands also have early roots)
+4. Gin – Netherlands (origin as “jenever”), later popularized in England
+5. Whiskey – Ireland and Scotland (both have very old traditions and debate origins)
+6. Brandy – France (the word comes from Dutch, but early brandy production is strongly linked to France)
+
+---
+
 ## Vodka
 
 - Known as a **neutral spirit** – clear, odorless, and typically not aged.  
