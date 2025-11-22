@@ -33,11 +33,12 @@
 - Wild Turkey 101
 - Buffalo Trace
 - Elijah Craig
+- EAGLE RARE-10
 - Woodford double oaked ***
 - Four Roses Single Barrel ***
 - E.H. TAYLOR. ******
-- EAGLE RARE-10 ******
 - STAGG ******
+- PAPPY VAN WINKLE ******
 ## Rye
 - Michter's Straight Rye
 - Segamore Double Oak Rye Whiskey ***
@@ -71,11 +72,9 @@
 
 
 Burbone I am hunt for - 
-- Four Roses Single Barrel
-- E.H. TAYLOR. 
-- EAGLE RARE - 10
-- Knob Creek 12 Year
-- Michter’s 10 Year Single Barrel
+- E.H. TAYLOR
+- STAGG
+- PAPPY VAN WINKLE
 
 ---
 
