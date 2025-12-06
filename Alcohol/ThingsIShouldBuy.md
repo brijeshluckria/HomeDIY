@@ -1,5 +1,4 @@
 # Buy these - 
-- E.H. TAYLOR. ******
 - George T. Stagg ******
 - Stagg Jr ******
 - PAPPY VAN WINKLE ******
@@ -38,7 +37,7 @@
 - 1792
 - Woodford double oaked 
 - Four Roses Single Barrel ***
-- E.H. TAYLOR. ******
+- E.H. TAYLOR. 
 - George T. Stagg ******
 - Stagg Jr ******
 - PAPPY VAN WINKLE ******
