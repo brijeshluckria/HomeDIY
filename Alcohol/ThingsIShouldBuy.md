@@ -1,6 +1,6 @@
 # Buy these - 
-- George T. Stagg ******
 - Stagg Jr ******
+- George T. Stagg ******
 - PAPPY VAN WINKLE ******
 
 
@@ -20,31 +20,31 @@
 - McIVOR
 - Chivas Regal
 - Johnnie Walker Green Label-15
+- Johnnie Walker 18
 - Glenfiddich-12
 - Glenfiddich-16
 - Amrut
 - The MACALLAN - 12Y Sherry Oak Cask ***
 - OBAN-14 ***
 ## Bourbon
+- Buffalo Trace
 - Weller-12
 - Blanton
+- EAGLE RARE-10
+- E.H. TAYLOR
 - Russell's-10
 - Jack daniel's heritage
 - Wild Turkey 101
-- Buffalo Trace
 - Elijah Craig
-- EAGLE RARE-10
 - 1792
-- Woodford double oaked 
+- Woodford Double Oaked 
 - Four Roses Single Barrel ***
-- E.H. TAYLOR. 
 - George T. Stagg ******
 - Stagg Jr ******
 - PAPPY VAN WINKLE ******
 ## Rye
 - Michter's Straight Rye
 - Segamore Double Oak Rye Whiskey ***
-
 ## Irish whiskey
 - Redbreast-12 Year Irish Whiskey ***
 
