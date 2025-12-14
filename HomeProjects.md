@@ -1,10 +1,14 @@
 1. Overseed the Tall fescue grass - Done
 2. Winterize sprinkler system - Done
-3. Paver - Maintenance and Polymeric Sand
-4. Seal the Driveway (Asphalt Seal)
-5. Paint the Garage Walls
-6. Garage Flooring (Racedeck vs Swisstrax)
-7. Gym floring 
-8. Refurbishing old wine barrel
-9. Putting the Camera Systems 
-10. Landscape lighting 
+3. Paint the Garage Walls - Done
+4. Paint old wine barrel - Done
+5. Putting the Camera Systems - Jan
+6. Garage Flooring (Racedeck vs Swisstrax) - Jan
+7. Gym floring - Jan
+8. Termite Treatment - April
+9. Pest Treatment - April 
+10. Landscape lighting - April
+11. Paver - Maintenance and Polymeric Sand - April
+12. Seal the Driveway (Asphalt Seal) - April
+
+
