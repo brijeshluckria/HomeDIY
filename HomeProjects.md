@@ -3,6 +3,7 @@
 3. Paint the Garage Walls - Done
 4. Paint old wine barrel - Done
 5. Putting the Camera Systems - Jan
+6. Install Gladiator Gear Track - Jan
 6. Garage Flooring (Racedeck vs Swisstrax) - Jan
 7. Gym floring - Jan
 8. Termite Treatment - April

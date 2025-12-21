@@ -1,5 +1,4 @@
 # Diet
-
 - Eat 3 Times MAX in a day. 
 - Eat 30g Protein, 15g Fat and 10gm Fiber in each Meal. 
 - Make Sure each meal includes fruits or vegetables or and whole grains (Beans etc, Chickpea)
