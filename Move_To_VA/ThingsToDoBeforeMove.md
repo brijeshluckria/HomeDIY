@@ -1,0 +1,25 @@
+- Clear both the Storage Areas 
+- Sell all the remaining Stuff
+- Lubricate the Garage
+- Change the Lock
+- Change in Home Insurnace
+- Change in Car Insurance
+- Extra Keys for Home (3 keys)
+- Ask Kelob Mom for Box to put in front of house
+- Fan Globe Change
+- Fix the Kitchen Fauset 
+- Kitchen Caulking
+- Carpet Fix
+- Paint Few Areas 
+- Address Change in all places. (Bank, credit cards, ATT, etc)
+- File a USPS change of address.
+- Check if any change is needed on health insurance. 
+- Prep for DMV appointment. 
+- Stop the Spectrum and return the hardware 
+- Stop Ring Service.
+- Remove all cameras 
+- Remove all RING devices. 
+- Change the Ring Bell. 
+- Update pet microchip 
+- Renew homeagain and change the address there. 
+- Set up mail forwarding beyond the initial USPS period. 
