@@ -1,16 +1,17 @@
+- Buy 5 Green Boxes - Lowes
+- Kitchen Caulking - Lowes
+- Paint Few Areas - Lowes
+- Fan Globe Change - Lowes
 - Clear both the Storage Areas 
 - Sell all the remaining Stuff
 - Lubricate the Garage
-- Change the Lock
 - Change in Home Insurnace
 - Change in Car Insurance
-- Extra Keys for Home (3 keys)
+- Extra Keys for Home (3 keys) 
 - Ask Kelob Mom for Box to put in front of house
-- Fan Globe Change
+- Fan Globe Change - Lowes
 - Fix the Kitchen Fauset 
-- Kitchen Caulking
-- Carpet Fix
-- Paint Few Areas 
+- Carpet Fix 
 - Address Change in all places. (Bank, credit cards, ATT, etc)
 - File a USPS change of address.
 - Check if any change is needed on health insurance. 
