@@ -1,3 +1,4 @@
+- Return old Globe - Lowes
 - Buy 5 Green Boxes - Lowes
 - Kitchen Caulking - Lowes
 - Paint Few Areas - Lowes
