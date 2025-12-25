@@ -1,27 +1,50 @@
-- Return old Globe - Lowes
-- Buy 5 Green Boxes - Lowes
-- Kitchen Caulking - Lowes
-- Paint Few Areas - Lowes
-- Fan Globe Change - Lowes
+
+
+
+25th Dec - 
 - Clear both the Storage Areas 
-- Sell all the remaining Stuff
-- Lubricate the Garage
+- Clear the Shed 
+- Put Weed barrer in the back yard 
+- Full House Pesticides treatment
+- Put Termite Stakes 
+- Brijesh Important Papers Packing 
+- Brijesh Cloths Packing 
+
+26th Dec - 
 - Change in Home Insurnace
 - Change in Car Insurance
-- Extra Keys for Home (3 keys) 
 - Ask Kelob Mom for Box to put in front of house
-- Fan Globe Change - Lowes
-- Fix the Kitchen Fauset 
-- Carpet Fix 
+- File a USPS change of address, Set up mail forwarding beyond the initial USPS period. 
 - Address Change in all places. (Bank, credit cards, ATT, etc)
-- File a USPS change of address.
 - Check if any change is needed on health insurance. 
 - Prep for DMV appointment. 
-- Stop the Spectrum and return the hardware 
+
+
+27th Dec - 
+- Remove all cameras (Blink and Ring)
+- Remove all RING devices
+- Change the Ring Bell
 - Stop Ring Service.
-- Remove all cameras 
-- Remove all RING devices. 
-- Change the Ring Bell. 
-- Update pet microchip 
+- Change the Light Bulbs 
+
+28th Dec - 
+- Paint Doors where ring devices were there. 
+- Paint House Areas 
+- Fix Carpet 
+
+29th Dec 
+- Office Work
+- 
+
+30th - Office Work 
+- Return the Spectrum hardware 
+
+31th 
+- Move
+
+
+2nd Jan - 
 - Renew homeagain and change the address there. 
 - Set up mail forwarding beyond the initial USPS period. 
+
+
