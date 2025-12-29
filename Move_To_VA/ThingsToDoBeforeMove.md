@@ -1,30 +1,20 @@
-27th Dec - 
-- Office Work
-- Change the Light Bulbs 
-- (For Sanniya) File a USPS change of address, Set up mail forwarding beyond the initial USPS period. 
-- Full House Pesticides treatment
-- Ask Kelob Mom for Box to put in front of house
 
 
-28th Dec - 
-- Office Work
-- Paint Doors where ring devices were there. 
-- Paint House Areas 
-- Fix Carpet 
 
 29th Dec 
-- Office Work
-- Finalize the booking for home move
-- Prep for DMV appointment
-- Ask Kelob Mom for Box to put in front of house
+- Office Work (Baseball Card for Sid and Brijesh) - 2Hr
+- Pack Mislenius stuff - 2hr
+- Remove all cameras (Blink and Ring) - 2hr
+- Change the Ring Bell - 1hr
+- Create goals for 2026 - 2hr
 
-
-30th - Office Work 
-- Remove all cameras (Blink and Ring)
-- Remove all RING devices
-- Change the Ring Bell
-- Stop Ring Service.
+30th 
+- Remove all RING contact Sensers 
 - Return the Spectrum hardware 
+- Box for Keys
+- Remove all RING contact Sensers (in the night)
+- Paint Doors where ring devices were there. 
+
 
 31th 
 - Move
