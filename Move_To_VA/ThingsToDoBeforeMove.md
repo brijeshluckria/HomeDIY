@@ -1,27 +1,21 @@
 
 
-
-29th Dec 
-- Create goals for 2026 - 1hr (11am to 12PM)
-- Change the Filter - 30 min
-- Office Work (Baseball Card for Sid and Brijesh) - 2Hr (3PM to 5PM)
-- Pack Mislenius stuff - 2hr
-- Remove all cameras (Blink and Ring) - 2hr
-- Change the Ring Bell - 1hr
-- Remove the Coco room door - 10 min
-- Paint the remaining areas - 1HR
-
-
-30th 
-- Remove all RING contact Sensers 
-- Return the Spectrum hardware 
-- Box for Keys
+29th 
+- Office Work (Baseball Card for Sid and Brijesh) - 2Hr (3:30PM to 5:30PM)
+- Mark all the Boxes today
 - Remove all RING contact Sensers (in the night)
-- Remove remaining Cameras from inside - 1 hr
+- Remove remaining Cameras from inside - 10 Min
 - Paint Doors where ring devices were there. 
 
 
+30th 
+- Office Work (Baseball Card for Sid and Brijesh) - 2Hr (9:00PM to 11:00PM)
+- Return the Spectrum hardware 
+- Pack Mislenius stuff - 2hr
+
+
 31th 
+- Put Key in the Box
 - Move
 
 
