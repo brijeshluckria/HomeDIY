@@ -28,3 +28,7 @@ Box-27 =
 Box-28 = 
 Box-29 = 
 Box-30 = 
+
+After move
+Box-01 = Desktop + Monitor + Keybord + Mouse + Comforter
+Box-02 = Vihaan Decoration Stuff (Things he made/created at school)

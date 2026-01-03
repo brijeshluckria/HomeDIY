@@ -1,22 +1,25 @@
 
 
-29th 
-- Office Work (Baseball Card for Sid and Brijesh) - 2Hr (3:30PM to 5:30PM)
-- Mark all the Boxes today
-- Remove all RING contact Sensers (in the night)
-- Remove remaining Cameras from inside - 10 Min
-- Paint Doors where ring devices were there. 
+
 
 
 30th 
-- Office Work (Baseball Card for Sid and Brijesh) - 2Hr (9:00PM to 11:00PM)
-- Return the Spectrum hardware 
-- Pack Mislenius stuff - 2hr
+- Office Work (Baseball Card for Sid and Brijesh) - 2Hr (8:00AM to 11:00AM)
+- Pack Mislenius stuff - 3hr
+
+
 
 
 31th 
 - Put Key in the Box
-- Move
+- Take a picture of the Garage Door keys and put it into kitchen drawer
+- Take a picture of the attic key
+- Take a picture of the Pool fob key and keep it there. 
+- Turn off the Water supply
+- Close all Doors 
+- turn of all Bulbs.
+- Put heating to 55. 
+- Close all windows 
 
 
 2nd Jan and After- 
