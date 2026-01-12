@@ -58,3 +58,22 @@ DMV Prep -
 6/ Get Emissions Inspection and Safety Instapction - Jeep 
 
 
+
+---Things to Do---
+
+- State inspection of the Jeep. - Done
+- Renew the registration for all Cars. - Done
+- Fix the Broken Bed Done
+- Put the paintings - Done
+- Send Photos/Videos to Two men and a Truck - Done
+- Fix the Paint on the Garage wall
+- Do the Red Color on the basebords 
+- Put the Gladiator boards. 
+- Clean the Garage. 
+- Create meetings for the team
+- Create baseball Card for Erik 
+- Install the TV in the Den Area. 
+- Buy VA Transponders - Do this after the VA DL
+- Register VA Transponders - Do this after the VA DL
+
+

@@ -32,3 +32,4 @@ Box-30 =
 After move
 Box-01 = Desktop + Monitor + Keybord + Mouse + Comforter
 Box-02 = Vihaan Decoration Stuff (Things he made/created at school)
+Box-22 = Dad Cloths + Good Quality laptop bags + Extra Stationary
