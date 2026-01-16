@@ -66,13 +66,22 @@ DMV Prep -
 - Fix the Broken Bed Done
 - Put the paintings - Done
 - Send Photos/Videos to Two men and a Truck - Done
-- Fix the Paint on the Garage wall
+- EZ TV Mounting - Confirm the Appointment. - Done
+- Send Details to fencing Company - Done
+- Return TV
+- Return both the mount
+- Return TV Cord Hider
+- Pay Car Property TAXs
+- Return NC DMV licnese plate. 
+- Install the TV in livng room
+- Install the TV in the guest room 
+- Fix the Paint on the Garage wall 
 - Do the Red Color on the basebords 
-- Put the Gladiator boards. 
-- Clean the Garage. 
-- Create meetings for the team
-- Create baseball Card for Erik 
-- Install the TV in the Den Area. 
+- Do the Garage Florring
+- Put the Gladiator boards 
+- Clean the Garage
+- Install the TV in livng room
+- Install the TV in the guest room 
 - Buy VA Transponders - Do this after the VA DL
 - Register VA Transponders - Do this after the VA DL
 
