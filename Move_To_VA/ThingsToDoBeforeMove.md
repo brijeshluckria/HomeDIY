@@ -77,6 +77,7 @@ DMV Prep -
 - Get the landload Insurene - Done 
 - Pay Car Property TAXs
 - Return NC DMV licnese plate. 
+- Cancel NC insurance 
 - Install the TV in the Gym
 - Fix the Paint on the Garage wall - Done
 - Put the Gladiator boards 
