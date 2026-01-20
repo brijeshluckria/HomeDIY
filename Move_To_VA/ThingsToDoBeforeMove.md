@@ -74,6 +74,7 @@ DMV Prep -
 - Install the TV in livng room - Done
 - Install the TV in the guest room - Done
 - Make Sure recevie the Money for Returned Sony TV
+- Get the landload Insurene - Done 
 - Pay Car Property TAXs
 - Return NC DMV licnese plate. 
 - Install the TV in the Gym
