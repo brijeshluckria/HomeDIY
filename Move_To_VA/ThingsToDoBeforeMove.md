@@ -68,20 +68,20 @@ DMV Prep -
 - Send Photos/Videos to Two men and a Truck - Done
 - EZ TV Mounting - Confirm the Appointment. - Done
 - Send Details to fencing Company - Done
-- Return TV
-- Return both the mount
-- Return TV Cord Hider
+- Return TV - Done
+- Return both the mount - Done
+- Return TV Cord Hider - Done
+- Install the TV in livng room - Done
+- Install the TV in the guest room - Done
+- Make Sure recevie the Money for Returned Sony TV
 - Pay Car Property TAXs
 - Return NC DMV licnese plate. 
-- Install the TV in livng room
-- Install the TV in the guest room 
-- Fix the Paint on the Garage wall 
+- Install the TV in the Gym
+- Fix the Paint on the Garage wall - Done
+- Put the Gladiator boards 
 - Do the Red Color on the basebords 
 - Do the Garage Florring
-- Put the Gladiator boards 
 - Clean the Garage
-- Install the TV in livng room
-- Install the TV in the guest room 
 - Buy VA Transponders - Do this after the VA DL
 - Register VA Transponders - Do this after the VA DL
 
