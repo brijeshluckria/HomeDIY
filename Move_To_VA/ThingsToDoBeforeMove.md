@@ -61,28 +61,35 @@ DMV Prep -
 
 ---Things to Do---
 
-- State inspection of the Jeep. - Done
-- Renew the registration for all Cars. - Done
-- Fix the Broken Bed Done
-- Put the paintings - Done
-- Send Photos/Videos to Two men and a Truck - Done
-- EZ TV Mounting - Confirm the Appointment. - Done
-- Send Details to fencing Company - Done
-- Return TV - Done
-- Return both the mount - Done
-- Return TV Cord Hider - Done
-- Install the TV in livng room - Done
-- Install the TV in the guest room - Done
-- Make Sure recevie the Money for Returned Sony TV
-- Pay Car Property TAXs
-- Return NC DMV licnese plate. 
-- Install the TV in the Gym
-- Fix the Paint on the Garage wall - Done
-- Put the Gladiator boards 
-- Do the Red Color on the basebords 
-- Do the Garage Florring
-- Clean the Garage
+1/22
+- Check on the Washer parts - 1/22
+
+1/23
+- Close the Water supply of the house (Call Kio) - 1/23
+- Return NC DMV licnese plate. - 1/23
+- Request for refund of Car property Taxes - 1/23
+- Check the Status of the Jeep Title from Bank - 1/23
+- Cancel Geico NC Policy - 1/23
 - Buy VA Transponders - Do this after the VA DL
 - Register VA Transponders - Do this after the VA DL
+
+1/26
+- Take the new landload policy for Fay - 1/26
+- Stop the current Fay Home insurnace Policy - 1/26
+- Confirm the Payment received for Fay cancelation policy - 1/26
+- Call the Wells fargo Loan office for reanalyze the escro account - 1/26
+- Pay Virgnia Car Property TAXs - 1/26
+- Confirm the Payment received from movers 
+
+
+Feb - When Weater is good
+- Flaten the Garage wall and paint them - 
+- Put the Gladiator boards - 
+- Do the Red Color on the basebords - 
+- Do the Garage Florring - 
+- Organize the Garage - 
+
+- Buy VA Transponders - Do this after the VA DL
+- 
 
 
