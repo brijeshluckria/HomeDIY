@@ -89,7 +89,7 @@ Feb - When Weater is good
 - Do the Garage Florring - 
 - Organize the Garage - 
 
-- Buy VA Transponders - Do this after the VA DL
+- Buy VA Transponders - Do this after the VA DL.
 - 
 
 
