@@ -1,7 +1,5 @@
 
-
 ---Things to Do---
-
 
 1/26
 - Double Check the new Landload policy for Fay and Send it to Keo - 1/26
