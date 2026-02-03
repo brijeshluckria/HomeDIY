@@ -1,22 +1,18 @@
 
 ---Things to Do---
 
-1/30
-- Double Check the new Landload policy for Fay and Send it to Keo 
+
+2/05
+- Refund of prorated Cumberland county Car property Taxes 
 - Ask Keo about to make Sure tenent take over the utilites. 
-- Refund of prorated Car property Taxes 
+- Pay Virgnia Car Property TAXs 
+- Confirm Payment has been made to new Fay Home Insurance (foremost). 
 - Refund for Geico NC Auto Policy
 - Refund for Geico Fay Home Insurance. Call the Wells fargo Loan office for reanalyze the escro account 
-- Confirm Payment has been made to new Fay Home Insurance (foremost). 
-
-1/31
-- Buy VA Transponders - Do this after the VA DL
-- Register VA Transponders - Do this after the VA DL
-- Make sure payment has been made to New Fay Home insurance Policy
-- Pay Virgnia Car Property TAXs 
 
 
 Feb - When Weather is good
+- Fix Ratteling sound from Vent - https://www.youtube.com/watch?v=_10FWS0Po1U 
 - Flaten the Garage wall and paint them - 
 - Put the Gladiator boards - 
 - Do the Red Color on the basebords - 

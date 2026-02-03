@@ -1,4 +1,0 @@
-- Two Men and a Truck Moving
-- S&Q Movers (Estimate - $5495.00 - $6950.00)
-- Stewart Moving & Storage (Erika will call)
-- 
