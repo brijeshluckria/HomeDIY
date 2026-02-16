@@ -1,3 +1,36 @@
+
+8AM - Black Coffee
+10AM - Green Tea
+12PM - Lunch (Rice + 2Eggs + Chicken/Stake) -> 60G Protein
+5PM - Yogurt + Chiya Seeds +  1 Scoop of protein powder + Apple + Bluberry -> 40G protein
+9PM - Stake + 2Eggs + Beans + Avacado -> 60G Protein
+
+
+
+
+Lunch - 900 kcal = ~80 g
+Meal contents
+- 200 g cooked chicken - 400 kcal
+- 100 g cooked white rice - 130 kcal
+- 2 whole eggs - 150 kcal
+- Non-starchy veggies - 100 kcal
+- 1 tbsp ghee total - 120 kcal
+
+Evening snack - 
+- Yougurt + Chia Seeds + Pumpkin Seeds + Protein Powder + Apple + Nuts 
+
+Dinner - 1000 kcal = ~80 g
+Meal contents
+- 200 g cooked ribeye steak - 500 kcal
+- 100 g cooked white rice - 130 kcal
+- 2 whole eggs - 150 kcal
+- Non-starchy veggies - 100 kcal
+- 1 tbsp ghee total - 120 kcal
+
+Before Sleep - 1 cup Milk 
+
+---
+
 # Diet
 - Eat 3 Times MAX in a day. 
 - Eat 30g Protein, 15g Fat and 10gm Fiber in each Meal. 

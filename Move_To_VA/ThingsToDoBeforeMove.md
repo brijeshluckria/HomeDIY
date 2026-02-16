@@ -1,14 +1,17 @@
 
 ---Things to Do---
 
+2/15
+- Fill CoCo Vet Questions 
 
-2/05
-- Refund of prorated Cumberland county Car property Taxes 
-- Ask Keo about to make Sure tenent take over the utilites. 
-- Pay Virgnia Car Property TAXs 
-- Confirm Payment has been made to new Fay Home Insurance (foremost). 
+2/16
+- Refund for prorated Cumberland county Car property Taxes 
 - Refund for Geico NC Auto Policy
-- Refund for Geico Fay Home Insurance. Call the Wells fargo Loan office for reanalyze the escro account 
+
+2/20
+ - Stop montly Car wash subscription. 
+ - Check utility companies on Tenet took over them 
+ - Pay Virgnia Car Property TAXs 
 
 
 Feb - When Weather is good
