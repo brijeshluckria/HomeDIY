@@ -30,6 +30,8 @@ Box-29 =
 Box-30 = 
 
 After move
-Box-01 = Desktop + Monitor + Keybord + Mouse + Comforter
-Box-02 = Vihaan Decoration Stuff (Things he made/created at school)
-Box-22 = Dad Cloths + Good Quality laptop bags + Extra Stationary
+Box-01 = Desktop + Monitor + Keybord + Mouse + Comforter - Basement Store Room
+Box-02 = Vihaan Decoration Stuff (Things he made/created at school) - Basement Store Room
+Box-22 = Dad Cloths + Good Quality laptop bags + Extra Stationary - Basement Store Room
+Box-09 = Halloween Stuff 
+Box-10 = Halloween Stuff + Chrismas lights - Garage
