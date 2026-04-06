@@ -33,5 +33,10 @@ After move
 Box-01 = Desktop + Monitor + Keybord + Mouse + Comforter - Basement Store Room
 Box-02 = Vihaan Decoration Stuff (Things he made/created at school) - Basement Store Room
 Box-22 = Dad Cloths + Good Quality laptop bags + Extra Stationary - Basement Store Room
-Box-09 = Halloween Stuff 
+Box-04 = Car Stuff + Car Clearning - Garage
+Box-09 = Halloween Stuff - Garage
 Box-10 = Halloween Stuff + Chrismas lights - Garage
+Box-11 = Ring Decices (Old + New) + Blink Decices + Alexa + smart plug + Outlet + Fire TV Stick + Netgear Swithc - Garage
+Box-3 = Wires + Chargers + Old Ring Devices + Old Electric Lock - Garage
+Box-16 = Painting Supply - Garage
+Box-15 = Miscellaneous - Garage

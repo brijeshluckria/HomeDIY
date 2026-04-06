@@ -3,13 +3,6 @@
 
 
 
-2/16
-- Refund for prorated Cumberland county Car property Taxes 
-
-2/20
- - Stop montly Car wash subscription. 
- - Check utility companies on Tenet took over them 
- - Pay Virgnia Car Property TAXs 
 
 
 Feb - When Weather is good
